@@ -14,3 +14,9 @@ This repo uses **synthetic / sanitized data only** (no client exports).
 ## Status
 - v1: baseline regression + failure analysis (documented)
 - v2: roadmap for a better model (planned)
+
+## How to run (local)
+
+1) Install dependencies
+```bash
+pip install -r requirements.txt
