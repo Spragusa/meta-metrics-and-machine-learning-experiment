@@ -19,4 +19,7 @@ This repo uses **synthetic / sanitized data only** (no client exports).
 
 1) Install dependencies
 ```bash
+
 pip install -r requirements.txt
+
+python notebooks/01_baseline_linear_regression.py
