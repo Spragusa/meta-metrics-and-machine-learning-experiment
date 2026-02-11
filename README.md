@@ -21,8 +21,9 @@ This repo uses synthetic / sanitized data only (no client exports).
 
 ## Status
 
-- v1: baseline regression + failure analysis (documented)
-- v2: roadmap for a better model (planned)
+- v1: baseline regression + documented failure analysis
+- v2: redesign roadmap defined
+- This project is structured as an iterative modeling lab and may evolve over time.
 
 ---
 
